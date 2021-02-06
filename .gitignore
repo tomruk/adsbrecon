@@ -1,0 +1,8 @@
+adsbrecon
+adsbrecon-linux-x64
+adsbrecon-linux-x86
+adsbrecon-linux-arm64
+adsbrecon-linux-armv7
+adsbrecon-linux-armv6
+adsbrecon-linux-armv5
+*.exe
